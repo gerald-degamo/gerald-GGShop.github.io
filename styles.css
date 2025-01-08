@@ -337,3 +337,8 @@ footer a .fa-twitter:hover {
 footer a .fa-square-instagram:hover {
   color: #CD3FDC;
 }
+
+.notification {
+  z-index: 1001;
+  top: 80px;
+}
