@@ -1,13 +1,13 @@
 // Sample product data
 const products = [
-    { id: 1, name: "Classic Acoustic Guitar", price: 299.99, rating: 4.5, image: "/GGShop/images/images1.jpeg" },
-    { id: 2, name: "Electric Guitar Pro", price: 599.99, rating: 4.8, image: "/GGShop/images/images2.jpeg" },
-    { id: 3, name: "Bass Guitar Deluxe", price: 449.99, rating: 4.6, image: "/GGShop/images/image3.jpeg" },
-    { id: 4, name: "Acoustic-Electric Guitar", price: 399.99, rating: 4.7, image: "/GGShop/images/image4.jpeg" },
-    { id: 5, name: "Classical Guitar", price: 249.99, rating: 4.4, image: "/GGShop/images/images5.jpeg" },
-    { id: 6, name: "12-String Guitar", price: 499.99, rating: 4.9, image: "/GGShop/images/image7.jpg" },
-    { id: 7, name: "Travel Guitar", price: 199.99, rating: 4.3, image: "/GGShop/images/images6.jpeg" },
-    { id: 8, name: "Resonator Guitar", price: 699.99, rating: 4.7, image: "/GGShop/images/images8.jpeg" },
+    { id: 1, name: "Classic Acoustic Guitar", price: 299.99, rating: 4.5, image: "images/images1.jpeg" },
+    { id: 2, name: "Electric Guitar Pro", price: 599.99, rating: 4.8, image: "images/images2.jpeg" },
+    { id: 3, name: "Bass Guitar Deluxe", price: 449.99, rating: 4.6, image: "images/image3.jpeg" },
+    { id: 4, name: "Acoustic-Electric Guitar", price: 399.99, rating: 4.7, image: "images/image4.jpeg" },
+    { id: 5, name: "Classical Guitar", price: 249.99, rating: 4.4, image: "images/images5.jpeg" },
+    { id: 6, name: "12-String Guitar", price: 499.99, rating: 4.9, image: "images/image7.jpg" },
+    { id: 7, name: "Travel Guitar", price: 199.99, rating: 4.3, image: "images/images6.jpeg" },
+    { id: 8, name: "Resonator Guitar", price: 699.99, rating: 4.7, image: "images/images8.jpeg" },
 ];
 
 // Function to generate star rating
