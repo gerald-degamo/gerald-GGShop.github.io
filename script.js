@@ -1,6 +1,6 @@
 // Sample product data
 const products = [
-    { id: 1, name: "Classic Acoustic Guitar", price: 299.99, rating: 4.5, image: "images/images1.jpeg" },
+    { id: 1, name: "Classic Acoustic Guitar", price: 299.99, rating: 4.5, image: "/GGShop/images/images1.jpeg" },
     { id: 2, name: "Electric Guitar Pro", price: 599.99, rating: 4.8, image: "images/images2.jpeg" },
     { id: 3, name: "Bass Guitar Deluxe", price: 449.99, rating: 4.6, image: "images/image3.jpeg" },
     { id: 4, name: "Acoustic-Electric Guitar", price: 399.99, rating: 4.7, image: "images/image4.jpeg" },
